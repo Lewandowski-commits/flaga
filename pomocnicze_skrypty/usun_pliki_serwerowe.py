@@ -2,7 +2,7 @@ import configparser
 import os
 import sys
 
-def clear_files_and_folders_creation():
+def clear_files_and_folders_creation(domena):
     
     # Usuńmy drugi plik nginxa.
     try:
